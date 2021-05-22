@@ -1,5 +1,6 @@
 # CS5001-5003 Resources
 
+Useful class resources
 
 Resource | Note | URL
 ---- | ---- | ----
