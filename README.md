@@ -9,4 +9,4 @@ GraphWin | Documentation | https://www.cs.swarthmore.edu/~adanner/cs21/s15/Labs/
 GraphWin | Documentation | https://mcsp.wartburg.edu/zelle/python/graphics/graphics/node3.html
 GraphWin | Documentation | https://mcsp.wartburg.edu/zelle/python/ppics3/code/chapter06/graphics.py
 GraphWin | Documentation | https://www.cs.swarthmore.edu/~richardw/classes/cs21/s13/using-graphics.html
-GraphWin | Documentation \ https://mcsp.wartburg.edu/zelle/python/graphics.py
+GraphWin | Documentation | https://mcsp.wartburg.edu/zelle/python/graphics.py
