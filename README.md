@@ -10,3 +10,6 @@ GraphWin | Documentation | https://mcsp.wartburg.edu/zelle/python/graphics/graph
 GraphWin | Documentation | https://mcsp.wartburg.edu/zelle/python/ppics3/code/chapter06/graphics.py
 GraphWin | Documentation | https://www.cs.swarthmore.edu/~richardw/classes/cs21/s13/using-graphics.html
 GraphWin | Documentation | https://mcsp.wartburg.edu/zelle/python/graphics.py
+GraphWin | Documentation | https://courses.lumenlearning.com/suny-albany-programmingforproblemsolving/chapter/unit-3-graphics-designing-and-developing-graphics-programs/
+GraphWin | Documentation | https://mcsp.wartburg.edu/zelle/python/graphics/graphics/node13.html
+GraPHWIN | Documentation | https://www.youtube.com/watch?v=IpiVXHcSBSw
